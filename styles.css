@@ -4,7 +4,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    min-height: 220vh;
     margin: 0;
 }
 
@@ -41,7 +40,7 @@ body {
     flex-direction: row;
     background-color: #1F2937;
     align-self: stretch;
-    padding: 60px 10%;
+    padding: 30px 10%;
     flex-grow: 2;
     align-items: center;
 }
